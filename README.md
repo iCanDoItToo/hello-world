@@ -1,2 +1,3 @@
 # hello-world
 My very first... 
+Well here we go Day 1, I really have no idea what I'm doing here but it's time for something new. I have been reading and watching YouTube viedos on how to be a programmer - I gotta say it's not going to be easy but guess what? I can do it too!
